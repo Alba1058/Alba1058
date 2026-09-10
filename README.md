@@ -49,7 +49,7 @@ const alba = {
 
 <br/>
 
-`Clean Architecture` `Onion Architecture` `SOLID Principles` `xUnit` `Moq` `Unit Testing`
+`Clean Architecture` `Onion Architecture` `MVC` `Repository Pattern` `CQRS` `SOLID Principles` `xUnit` `Moq` `Unit Testing`
 
 <br/><br/>
 
@@ -57,11 +57,13 @@ const alba = {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="48"/>
 
 <br/>
 
-`SQL Server` `Oracle DB`
+`PL/SQL`
 
 <br/><br/>
 
@@ -77,7 +79,13 @@ const alba = {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,firebase,gcp,notion,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,notion,figma" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" height="48"/>
+
+<br/>
+
+`Docker Compose` `CI/CD`
 
 </div>
 
@@ -94,8 +102,8 @@ const alba = {
 
 <img src="https://streak-stats.demolab.com?user=Alba1058&hide_border=true&background=0D1117&ring=FF6FB5&fire=C9A6FF&currStreakLabel=FF6FB5&sideLabels=E3D9F0&currStreakNum=E3D9F0&sideNums=E3D9F0&dates=A99BB5"/>
 
-
 </div>
+
 <br/>
 
 ## Collaborative Projects
