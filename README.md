@@ -37,13 +37,15 @@ const alba = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-2F2F2F?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-2F2F2F?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/csharp" width="48" height="48" title="C#"/>
+<img src="https://cdn.simpleicons.org/dotnet" width="48" height="48" title=".NET"/>
+<img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" title="Java"/>
+<img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="48" title="Node.js"/>
+<img src="https://cdn.simpleicons.org/express" width="48" height="48" title="Express"/>
+
+<br/>
+
+`REST APIs` `Entity Framework Core`
 
 <br/><br/>
 
@@ -51,13 +53,7 @@ const alba = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Onion_Architecture-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Repository_Pattern-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CQRS-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/xUnit-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Moq-2F2F2F?style=for-the-badge"/>
+`Clean Architecture` `Onion Architecture` `MVC` `Repository Pattern` `CQRS` `SOLID Principles` `xUnit` `Moq` `Unit Testing`
 
 <br/><br/>
 
@@ -65,10 +61,13 @@ const alba = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/PL%2FSQL-2F2F2F?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/mongodb" width="48" height="48" title="MongoDB"/>
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="48" height="48" title="SQL Server"/>
+<img src="https://cdn.simpleicons.org/oracle" width="48" height="48" title="Oracle"/>
+
+<br/>
+
+`PL/SQL`
 
 <br/><br/>
 
@@ -76,12 +75,12 @@ const alba = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/typescript" width="48" height="48" title="TypeScript"/>
+<img src="https://cdn.simpleicons.org/react" width="48" height="48" title="React"/>
+<img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" title="Next.js"/>
+<img src="https://cdn.simpleicons.org/html5" width="48" height="48" title="HTML5"/>
+<img src="https://cdn.simpleicons.org/css3" width="48" height="48" title="CSS3"/>
+<img src="https://cdn.simpleicons.org/bootstrap" width="48" height="48" title="Bootstrap"/>
 
 <br/><br/>
 
@@ -89,17 +88,19 @@ const alba = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2F2F2F?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2F2F2F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/docker" width="48" height="48" title="Docker"/>
+<img src="https://cdn.simpleicons.org/git" width="48" height="48" title="Git"/>
+<img src="https://cdn.simpleicons.org/github" width="48" height="48" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" title="GitHub Actions"/>
+<img src="https://cdn.simpleicons.org/postman" width="48" height="48" title="Postman"/>
+<img src="https://cdn.simpleicons.org/notion" width="48" height="48" title="Notion"/>
+<img src="https://cdn.simpleicons.org/figma" width="48" height="48" title="Figma"/>
+<img src="https://cdn.simpleicons.org/jira" width="48" height="48" title="Jira"/>
+<img src="https://cdn.simpleicons.org/asana" width="48" height="48" title="Asana"/>
+
+<br/>
+
+`Docker Compose` `CI/CD`
 
 </div>
 
