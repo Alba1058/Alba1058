@@ -118,7 +118,7 @@ Built with other developers.
 
 **AppCenar**
 
-`React · JavaScript · HTML · CSS · .NET · REST API`
+`JavaScript · HTML · CSS · .NET · REST API`
 
 Built with other developers.
 
