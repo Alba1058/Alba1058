@@ -37,11 +37,7 @@ const alba = {
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/csharp" width="48" height="48" title="C#"/>
-<img src="https://cdn.simpleicons.org/dotnet" width="48" height="48" title=".NET"/>
-<img src="https://cdn.simpleicons.org/openjdk" width="48" height="48" title="Java"/>
-<img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="48" title="Node.js"/>
-<img src="https://cdn.simpleicons.org/express" width="48" height="48" title="Express"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express" />
 
 <br/>
 
@@ -61,13 +57,11 @@ const alba = {
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/mongodb" width="48" height="48" title="MongoDB"/>
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="48" height="48" title="SQL Server"/>
-<img src="https://cdn.simpleicons.org/oracle" width="48" height="48" title="Oracle"/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 <br/>
 
-`PL/SQL`
+`SQL Server` `Oracle` `PL/SQL`
 
 <br/><br/>
 
@@ -75,12 +69,7 @@ const alba = {
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/typescript" width="48" height="48" title="TypeScript"/>
-<img src="https://cdn.simpleicons.org/react" width="48" height="48" title="React"/>
-<img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" title="Next.js"/>
-<img src="https://cdn.simpleicons.org/html5" width="48" height="48" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3" width="48" height="48" title="CSS3"/>
-<img src="https://cdn.simpleicons.org/bootstrap" width="48" height="48" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css,bootstrap" />
 
 <br/><br/>
 
@@ -88,19 +77,11 @@ const alba = {
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/docker" width="48" height="48" title="Docker"/>
-<img src="https://cdn.simpleicons.org/git" width="48" height="48" title="Git"/>
-<img src="https://cdn.simpleicons.org/github" width="48" height="48" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/githubactions" width="48" height="48" title="GitHub Actions"/>
-<img src="https://cdn.simpleicons.org/postman" width="48" height="48" title="Postman"/>
-<img src="https://cdn.simpleicons.org/notion" width="48" height="48" title="Notion"/>
-<img src="https://cdn.simpleicons.org/figma" width="48" height="48" title="Figma"/>
-<img src="https://cdn.simpleicons.org/jira" width="48" height="48" title="Jira"/>
-<img src="https://cdn.simpleicons.org/asana" width="48" height="48" title="Asana"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,notion,figma" />
 
 <br/>
 
-`Docker Compose` `CI/CD`
+`Docker Compose` `CI/CD` `Jira` `Asana`
 
 </div>
 
